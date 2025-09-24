@@ -4,7 +4,7 @@ Tugas memakai html
 
 Disini saya akan menjelaskan penggunaan html yang ditugaskan kepada saya
 
-
+**Instruksi Praktikum**
 1. Persiapkan text editor misalnya VSCode.
 2. Buat file baru dengan nama lab1_tag_dasar.html
 3. Buat struktur dasar dari dokumen HTML.
