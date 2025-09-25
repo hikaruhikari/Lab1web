@@ -55,6 +55,10 @@ untuk intruksi tidak saya bahas karena itu sebagai panduan sebelum membuat html 
 
 <img width="958" height="245" alt="e" src="https://github.com/user-attachments/assets/34d63354-9364-41f3-9239-1b5594255f26" />
 
+hasil
+
+<img width="1920" height="1080" alt="Screenshot (97)" src="https://github.com/user-attachments/assets/cf010741-acdd-4e66-ac35-215f167b66c8" />
+
 **B** Jawaban
 
 1. ada error saat melakukan pengecekan di validator cuma sayangnya harus menggunakan CSS dan kami belum mempelajari itu sehingga kami membiarkannya karena belum mempelajari CSS
