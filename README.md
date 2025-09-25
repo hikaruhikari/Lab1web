@@ -26,3 +26,23 @@ proporsional sebaiknya kedua atribut tersebut diisi semua atau tidak? Berikan pe
 4. Buatlah file README.md dan tuliskan penjelasan dari setiap langkah praktikum beserta screenshotnya.
 5. Commit hasilnya pada repository masing-masing.
 6. Kirim URL repository pada e-learning ecampus.
+
+untuk intruksi tidak saya bahas karena itu sebagai panduan sebelum membuat html jadi saya fokus ke tugas lalu baru soal yang diberikan
+
+**A** Tugas
+
+1. buat file baru di vscode
+2. ketik < ! DOCTYPE html > agar code yang dibuat terbaca sebagai html
+3. lalu bawahnya ketik < html > sebagai pembuka, buat < head > yang di setelahnya ketik < title > dan tutup dengan < /title > lalu isi dibagian tengah sesuai yang diinginkan dan terakhir ketik < /head > agar menutup bagian head. / pada html berfungsi sebagai penutup code jadi pastikan selalu menggunakan ini jika ingin pindah bagian
+4. buat < body > dan ketik < !---- > agar kita tau bagian mana saat kita membuat program, code tersebut digunakan sebagai catatan pada html agar mengetahui posisi apa yang dibuat serta kode tersebut tidak akan terbaca dalam html karena kode tersebut adalah catatan atau komentar
+5. buat judul dengan kode < h1 > serta buat paragraf dengan < p >, jika ingin membuat hal yang sama atau mungkin menjadi sub bab bisa melakukan hal yang sama tapi untuk < h1 > menjadi < h2 > jika ini turunan dari yang utama. kode tersebut memiliki 6 bagian sesuai angka yang diberikan, pada bagian < p > bisa ditambahkan align untuk memberikan arah pada paragraf untuk di taruh du bagian tengah kanan atau kiri serta di paragraf bisa ditambahkan beberapa atribut sebagai penekanan pada beberapa kata di paragraf
+6.  
+
+
+**B** Jawaban
+
+1. ada error saat melakukan pengecekan di validator cuma sayangnya harus menggunakan CSS dan kami belum mempelajari itu sehingga kami membiarkannya karena belum mempelajari CSS
+2. < p > itu sebagai kode untuk membuat paragraf sedangkan < br > itu agar paragraf yang dibuat pindah baris tetapi masih dalam zona < p > karena < br > itu kode pendukung
+3. title pada tag < img > adalah judul gambar dan alt pada < img > adalah deskripsi tentang gambar
+4. perlu jika ingin memperbesar atau memperkecil gambar, saya sebelumnya menggunakan ukuran juga tapi salah satunya kepanjanagan sehingga saya tidak pakai yang satunya dan hasilnya terihat bagus
+5. 
